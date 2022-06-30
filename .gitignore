@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 100MB-GitHub upload limit will not allow this file:
+abril2018.csv
